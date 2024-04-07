@@ -13,4 +13,4 @@ Some of the code information is as follows:
 - `plot_H_exp.m`, `viewline.m`: some functions to plot details;
 - `optimizer.m`,`main_optimize.m`: used to optimize parameters in the model.
 
-More details are reachable by contacting me: qcxu0220@163.com
+More details are accessible by contacting me: qcxu0220@163.com
